@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+body{
+    background-image: url('https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?cs=srgb&dl=abstract-background-blur-949587.jpg&fm=jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    background-color: bisque;
+    margin-top: 100px ;
+    margin-left: 500px; 
+   box-shadow: 5px 5px;
+   width: 350px;
+   border-radius: 5px;
+}
+
